@@ -10,6 +10,5 @@ My project will look into yawning titan. I aim to explore how yawning titan work
 
 ## Table
 | 1 | 2 | 3 | 4 |
-| ----------- | ----------- |
 | Header | Title | 3 | 4 |
 | Paragraph | Text | 3 | 4 |
