@@ -9,7 +9,7 @@ My project will look into yawning titan. I aim to explore how yawning titan work
 4. ben - intern
 
 ## Table
-| Syntax | Description |
+| 1 | 2 |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
